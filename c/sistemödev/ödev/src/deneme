@@ -1,0 +1,207 @@
+#include<stdlib.h>
+#include<stdio.h>
+#include<string.h>
+#include<sys/types.h>
+#include<unistd.h>
+#include<sys/wait.h>
+#include<sys/stat.h>
+#include<fcntl.h>
+#include"jrb.h"
+#include"fields.h"
+#define MAX 100
+typedef struct {
+  char **kelimeler;
+  int uzunluk;
+} Komut;
+typedef struct {
+  char *adi;
+  char *malzeme;
+  char *renk;
+} Siparis;
+char* oku_cumle();
+int cikis_kontrol(Komut*);
+Komut* kelimelere_bol(char*);
+JRB ekle_calistir(JRB,Komut*);
+JRB ekle_giris(JRB,Komut*);
+main(int argc,char* argv[])
+{
+  Komut* komut;
+  int kontrol;
+  char *cumle;
+  Siparis *siparis;
+  JRB agac,tmp;
+  agac=make_jrb();
+
+  do{
+    printf(">");
+    cumle=oku_cumle();
+    komut=kelimelere_bol(cumle);
+
+    //add içinde
+    if(strcmp("add",&(*komut->kelimeler[0]))==0)
+    {
+
+      agac=ekle_calistir(agac,komut);
+    }
+    else if(strcmp("pro",&(*komut->kelimeler[0]))==0)
+    {
+      agac=ekle_giris(agac,komut);
+    }
+    /*while(komut->uzunluk)
+    {
+      printf("%s \n",(komut->kelimeler[komut->uzunluk-1]));
+      komut->uzunluk-=1;
+    }*/
+    kontrol=cikis_kontrol(komut);
+    jrb_traverse(tmp, agac) {
+      siparis = (Siparis*)tmp->val.v;
+      printf("%s\n",siparis->adi );
+    }
+    free(cumle);
+    free(komut->kelimeler);
+    free(komut);
+    fflush(stdout);
+  }while(kontrol);
+
+  jrb_traverse(tmp, agac) {
+    siparis = (Siparis*)tmp->val.v;
+    free(siparis);
+  }
+
+
+}
+char* oku_cumle(){
+  char *cumle=(char*)malloc(sizeof(char)*MAX);
+  char c;
+  int i=0;
+  while(c != '\n')
+   {
+       c = getchar();
+       cumle[i]= c;
+       i++;
+   }
+  cumle[i]='\n';//sonlanma noktası
+  return &cumle[0];//ilk parametresinin adresini yönlendirdim
+}
+Komut* kelimelere_bol(char* cumle)
+{
+  //kelimelere bölme
+  Komut* komut;
+  int i=0;
+  char **kelimem=(char**)malloc(sizeof(char)*MAX);
+  char *token,*bol;
+
+  if(cumle[0]=='p')
+  {
+    bol=" \n";
+  }
+  else{
+    bol="|\n";
+  }
+  token=strtok(cumle,bol);
+  while(token!=NULL){
+    kelimem[i]=token;
+    token=strtok(NULL,bol);
+    i++;
+  }
+  kelimem[i]="\n";
+  komut=(Komut*)malloc(sizeof(Komut));
+  komut->kelimeler=kelimem;
+  komut->uzunluk=i;
+  return komut;
+}
+int cikis_kontrol(Komut* komut)
+{
+  //quit girildiğinde işlem
+  if(strcmp("quit",&(*komut->kelimeler[0]))==0)
+  {
+    return 0;
+  }
+  return 1;
+}
+JRB ekle_calistir(JRB agac,Komut* komut)
+{
+  //biçim uygun değilse kabul etme
+  if(komut->uzunluk!=5)
+  {
+    printf("Biçim uygun değil.\n" );
+    return agac;
+  }
+  Siparis *siparis=malloc(sizeof(Siparis));
+  siparis->renk=komut->kelimeler[komut->uzunluk-1];
+  siparis->malzeme=komut->kelimeler[komut->uzunluk-2];
+  siparis->adi=komut->kelimeler[komut->uzunluk-3];
+  jrb_insert_str(agac, komut->kelimeler[komut->uzunluk-4], new_jval_v((Siparis*) siparis));
+  /*while(komut->uzunluk)
+  {
+    printf("%s \n",(komut->kelimeler[komut->uzunluk-1]));
+    komut->uzunluk-=1;
+  }
+  JRB tmp;
+  jrb_traverse(tmp, agac) {
+  siparis = (Siparis*)tmp->val.v;
+  printf("%s \n", siparis->adi);
+  }
+  */
+  return agac;
+}
+JRB ekle_giris(JRB agac,Komut *komut)
+{
+  IS is;
+  if(strcmp("<",&(*komut->kelimeler[1]))==0)
+  {
+    is = new_inputstruct(&(*komut->kelimeler[2]));
+    if (is == NULL) {
+      printf("dosya bulunamadı\n");
+      return agac;
+    }
+    while(get_line(is) >= 0) {
+      komut=kelimelere_bol(is->fields[0]);
+      agac=ekle_calistir(agac,komut);
+
+    }
+    jettison_inputstruct(is);
+  }
+  else
+  {
+    printf("Hatalı Giriş\n" );
+  }
+  return agac;
+
+}
+/*int calistir(char* cumle)
+{
+  //kelimelere bölme
+  int i=0;
+  char *kelimeler[10];
+  char *token;
+  token=strtok(cumle,"|\n");
+  while(token!=NULL){
+    kelimeler[i]=token;
+    token=strtok(NULL,"|\n");
+    i++;
+  }
+  kelimeler[i]="\n";
+  char *komut[]={"quit","add"};
+  //quit girildiğinde işlem
+  if(strcmp(&(*komut[0]),&(*kelimeler[0]))==0)
+  {
+    return 0;
+  }
+  //add içinde
+  else if(strcmp(komut[1],&(*kelimeler[0]))==0)
+  {
+    //biçimm uygun değilse kabul etme
+    if(i!=5)
+    {
+      printf("Biçim uygun değil.\n" );
+      return 1;
+    }
+    while(i)
+    {
+      printf("%s\n",(kelimeler[i-1]));
+      i--;
+    }
+  }
+  return 1;
+}*/

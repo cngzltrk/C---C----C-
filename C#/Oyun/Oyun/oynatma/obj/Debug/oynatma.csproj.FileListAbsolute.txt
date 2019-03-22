@@ -1,0 +1,9 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\oynatma\bin\Debug\oynatma.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\oynatma\bin\Debug\oynatma.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\oynatma\bin\Debug\oynatma.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\oynatma\obj\Debug\oynatma.Form1.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\oynatma\obj\Debug\oynatma.Properties.Resources.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\oynatma\obj\Debug\oynatma.csproj.GenerateResource.Cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\oynatma\obj\Debug\oynatma.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\oynatma\obj\Debug\oynatma.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\oynatma\obj\Debug\oynatma.csprojResolveAssemblyReference.cache

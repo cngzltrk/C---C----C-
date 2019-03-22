@@ -1,0 +1,9 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev2\bin\Debug\ödev2.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev2\obj\Debug\ödev2.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev2\obj\Debug\ödev2.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev2\bin\Debug\ödev2.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev2\bin\Debug\ödev2.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev2\obj\Debug\matrisorusu.csprojResolveAssemblyReference.cache
+C:\Users\Cengo\Desktop\Ders notları\c# notları\uygulamalar\ödev2\bin\Debug\ödev2.exe.config
+C:\Users\Cengo\Desktop\Ders notları\c# notları\uygulamalar\ödev2\obj\Debug\ödev2.exe
+C:\Users\Cengo\Desktop\Ders notları\c# notları\uygulamalar\ödev2\obj\Debug\ödev2.pdb

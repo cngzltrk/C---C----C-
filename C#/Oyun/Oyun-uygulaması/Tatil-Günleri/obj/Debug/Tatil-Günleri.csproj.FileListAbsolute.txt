@@ -1,0 +1,9 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Tatil-Günleri\bin\Debug\Tatil-Günleri.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Tatil-Günleri\bin\Debug\Tatil-Günleri.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Tatil-Günleri\bin\Debug\Tatil-Günleri.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Tatil-Günleri\obj\Debug\Tatil-Günleri.csprojResolveAssemblyReference.cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Tatil-Günleri\obj\Debug\Tatil_Günleri.Form1.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Tatil-Günleri\obj\Debug\Tatil_Günleri.Properties.Resources.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Tatil-Günleri\obj\Debug\Tatil-Günleri.csproj.GenerateResource.Cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Tatil-Günleri\obj\Debug\Tatil-Günleri.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Tatil-Günleri\obj\Debug\Tatil-Günleri.pdb

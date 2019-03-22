@@ -1,0 +1,9 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\DaireAlan\bin\Debug\DaireAlan.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\DaireAlan\obj\Debug\DaireAlan.Form1.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\DaireAlan\obj\Debug\DaireAlan.Properties.Resources.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\DaireAlan\obj\Debug\DaireAlan.csproj.GenerateResource.Cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\DaireAlan\bin\Debug\DaireAlan.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\DaireAlan\bin\Debug\DaireAlan.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\DaireAlan\obj\Debug\DaireAlan.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\DaireAlan\obj\Debug\DaireAlan.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\DaireAlan\obj\Debug\DaireAlan.csprojResolveAssemblyReference.cache

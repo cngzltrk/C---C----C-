@@ -1,0 +1,9 @@
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Proje\g140910048\g140910048\bin\Debug\g140910048.exe.config
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Proje\g140910048\g140910048\bin\Debug\g140910048.exe
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Proje\g140910048\g140910048\bin\Debug\g140910048.pdb
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Proje\g140910048\g140910048\obj\Debug\g140910048.csprojResolveAssemblyReference.cache
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Proje\g140910048\g140910048\obj\Debug\g140910048.Properties.Resources.resources
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Proje\g140910048\g140910048\obj\Debug\g140910048.csproj.GenerateResource.Cache
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Proje\g140910048\g140910048\obj\Debug\g140910048.exe
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Proje\g140910048\g140910048\obj\Debug\g140910048.pdb
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Proje\g140910048\g140910048\obj\Debug\g140910048.AnaPencere.resources

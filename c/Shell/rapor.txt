@@ -1,0 +1,21 @@
+﻿Cengiz Altürk 	G140910048
+
+Çağdaş Bilgin	G141210045
+
+Elmar Dadaşov 	G151210564
+
+Merve Dolapcı 	G141210048
+
+Neslihan Yakay 	G151210018
+
+
+
+
+
+
+tekli komutlarda özellikli girildiğinde yani ls -la 
+burdaki özellikler
+tek -(cizgi) ve ardarda yazılmalı.
+ yani  
+>komut -(harfler) olarak olmalı.
+

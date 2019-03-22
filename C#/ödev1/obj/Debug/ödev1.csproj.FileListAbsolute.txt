@@ -1,0 +1,6 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev1\bin\Debug\ödev1.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev1\obj\Debug\ödev1.csprojResolveAssemblyReference.cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev1\bin\Debug\ödev1.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev1\bin\Debug\ödev1.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev1\obj\Debug\ödev1.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\uygulamalar\ödev1\obj\Debug\ödev1.pdb

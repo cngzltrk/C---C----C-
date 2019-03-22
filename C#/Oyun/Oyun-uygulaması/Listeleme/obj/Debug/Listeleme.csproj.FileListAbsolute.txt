@@ -1,0 +1,8 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Listeleme\bin\Debug\Listeleme.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Listeleme\bin\Debug\Listeleme.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Listeleme\bin\Debug\Listeleme.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Listeleme\obj\Debug\Listeleme.Form1.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Listeleme\obj\Debug\Listeleme.Properties.Resources.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Listeleme\obj\Debug\Listeleme.csproj.GenerateResource.Cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Listeleme\obj\Debug\Listeleme.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\Listeleme\obj\Debug\Listeleme.pdb

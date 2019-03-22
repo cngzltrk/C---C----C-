@@ -1,0 +1,10 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\CokluForm\bin\Debug\CokluForm.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\CokluForm\bin\Debug\CokluForm.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\CokluForm\bin\Debug\CokluForm.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\CokluForm\obj\Debug\CokluForm.csprojResolveAssemblyReference.cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\CokluForm\obj\Debug\CokluForm.Form1.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\CokluForm\obj\Debug\CokluForm.Form2.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\CokluForm\obj\Debug\CokluForm.Properties.Resources.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\CokluForm\obj\Debug\CokluForm.csproj.GenerateResource.Cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\CokluForm\obj\Debug\CokluForm.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\CokluForm\obj\Debug\CokluForm.pdb

@@ -1,0 +1,9 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\basituygulama\bin\Debug\basituygulama.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\basituygulama\bin\Debug\basituygulama.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\basituygulama\bin\Debug\basituygulama.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\basituygulama\obj\Debug\basituygulama.csprojResolveAssemblyReference.cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\basituygulama\obj\Debug\basituygulama.Form1.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\basituygulama\obj\Debug\basituygulama.Properties.Resources.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\basituygulama\obj\Debug\basituygulama.csproj.GenerateResource.Cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\basituygulama\obj\Debug\basituygulama.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\basituygulama\obj\Debug\basituygulama.pdb

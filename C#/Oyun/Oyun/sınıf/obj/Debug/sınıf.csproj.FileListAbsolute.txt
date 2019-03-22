@@ -1,0 +1,8 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\sınıf\bin\Debug\sınıf.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\sınıf\bin\Debug\sınıf.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\sınıf\bin\Debug\sınıf.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\sınıf\obj\Debug\sınıf.Form1.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\sınıf\obj\Debug\sınıf.Properties.Resources.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\sınıf\obj\Debug\sınıf.csproj.GenerateResource.Cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\sınıf\obj\Debug\sınıf.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun\sınıf\obj\Debug\sınıf.pdb

@@ -1,0 +1,16 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\bin\Debug\denemeOyun.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\bin\Debug\denemeOyun.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\bin\Debug\denemeOyun.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\obj\Debug\denemeOyun.Form1.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\obj\Debug\denemeOyun.Properties.Resources.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\obj\Debug\denemeOyun.csproj.GenerateResource.Cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\obj\Debug\denemeOyun.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\obj\Debug\denemeOyun.pdb
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\bin\Debug\denemeOyun.exe.config
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\obj\Debug\denemeOyun.exe
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\obj\Debug\denemeOyun.pdb
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\bin\Debug\denemeOyun.exe
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\bin\Debug\denemeOyun.pdb
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\obj\Debug\denemeOyun.Form1.resources
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\obj\Debug\denemeOyun.Properties.Resources.resources
+C:\Users\Cengo\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\denemeOyun\obj\Debug\denemeOyun.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\İdealKilo\bin\Debug\İdealKilo.exe.config
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\İdealKilo\bin\Debug\İdealKilo.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\İdealKilo\bin\Debug\İdealKilo.pdb
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\İdealKilo\obj\Debug\İdealKilo.csprojResolveAssemblyReference.cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\İdealKilo\obj\Debug\İdealKilo.Form1.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\İdealKilo\obj\Debug\İdealKilo.Properties.Resources.resources
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\İdealKilo\obj\Debug\İdealKilo.csproj.GenerateResource.Cache
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\İdealKilo\obj\Debug\İdealKilo.exe
+C:\Users\sadık\Desktop\Ders notları\c# notları\Oyun\Oyun-uygulaması\İdealKilo\obj\Debug\İdealKilo.pdb

@@ -1,0 +1,10 @@
+﻿Build started 29.11.2016 22:59:20.
+     1>Project "E:\-----\Dersim\Ders notları\c++ notları\programlar\programlar\Projeödevi\Projeödevi.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_LIB" /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt G140910048.cpp
+         G140910048.cpp
+     1>Done Building Project "E:\-----\Dersim\Ders notları\c++ notları\programlar\programlar\Projeödevi\Projeödevi.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
